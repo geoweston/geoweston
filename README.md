@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @geoweston
+- 👀 I’m interested in physics 
+- 🌱 I’m currently learning python
